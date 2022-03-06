@@ -1,13 +1,4 @@
-#
-# raichu.py : Play the game of Raichu
-#
-# PLEASE PUT YOUR NAMES AND USER IDS HERE!
-# Ameya Dalvi (abdalvi)
-# Henish Shah (henishah)
-# Shubham Bhagat (snbhagat)
-#
-# Based on skeleton code by D. Crandall, Oct 2021
-#
+
 import sys
 import time
 import copy
